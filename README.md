@@ -12,8 +12,8 @@ A complete full-stack web application designed for managing employee leaf reques
 
 ## Technology Stack
 
-- **Frontend**: Vue.js (Vite), Tailwind CSS, Vue Router, Axios
-- **Backend**: Python, Flask, Flask-Cors, PyJWT, bcrypt, python-dotenv
+- **Frontend**: Vue.js (Vite), Tailwind CSS, Vue Router
+- **Backend**: Python, Flask, python-dotenv
 - **Database**: MongoDB Atlas via PyMongo
 - **Architecture**: RESTful API design
 
